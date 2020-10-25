@@ -1,0 +1,2 @@
+# duacale
+Linux
